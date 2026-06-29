@@ -12,7 +12,7 @@ The project focuses on:
 -Microsoft Excel
 -Power Bi
 ## DASHBOARD
-! [Power Bi Dashboard](MY_DASHBOARD.png)
+! [Power Bi Dashboard](Https://github.com/asianukodivinefavour-dev/DATA-SCIENCE-SALARY-ANALYSIS/blob/b7fc3affe4d826571d9c21f1b0c3facd4f22a3b6/MY_DASHBOARD.png))
 ## KEY INSIGHTS
 -Remote jobs tend to offer higher salaries.
 -Senior-level employees earn thehighest salaries.
