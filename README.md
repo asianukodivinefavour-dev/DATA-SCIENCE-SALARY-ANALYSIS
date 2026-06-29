@@ -12,7 +12,7 @@ The project focuses on:
 -Microsoft Excel
 -Power Bi
 ## DASHBOARD
-! [Power Bi](MY DASHBOARD.png)
+! [Power Bi](MY_DASHBOARD.png)
 ## KEY INSIGHTS
 -Remote jobs tend to offer higher salaries.
 -Senior-level employees earn thehighest salaries.
