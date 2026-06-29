@@ -12,15 +12,15 @@ The project focuses on:
 -Microsoft Excel
 -Power Bi
 ## DASHBOARD
-[Power Bi Dashboard] (dashboard.png)
+! [Power Bi](MY DASHBOARD.png)
 ## KEY INSIGHTS
 -Remote jobs tend to offer higher salaries.
 -Senior-level employees earn thehighest salaries.
 -Large companies generally pay more than smll companies.
 -The united states has the highest average salaries.
 ## FILES
-[data_science_salaries2.xlsx]
-[DASHBOARD.pbix]
-[README.md]
+[Dataset](data_science_salaries2.xlsx)
+[Power Bi](DASHBOARD.pbix)
+[README](README.md)
 ## CONCLUSION
 This dashboard helps stakeholders understand salary trends in the global data science industry.
